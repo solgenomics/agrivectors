@@ -1,2 +1,2 @@
 # agrivectors
-Skin for agrivectors.org
+user interface for the agrivectors site https://agrivectors.org/

@@ -1,0 +1,34 @@
+<%doc>
+    =head1 NAME 
+    
+    annotation_updates.mas - a mason module to display an html section with annotation updates, read from a file. Links to basecamp document.
+    
+    =head1 DESCRIPTION
+    
+    The module does not require any parameters. If the file read does not succeed, an error message is displayed.
+    
+    =head1 AUTHOR
+    
+    Surya Saha <ss2489 at cornell dot edu>
+    Prashant Hosmani <psh65 at cornell dot edu>
+
+=cut
+</%doc>
+<%perl>
+    use strict;
+    use File::Spec;
+    use CXGN::Tools::File;
+    
+    my $contents = "Research updates not available at the moment.<br /><br />";
+    
+    eval {
+    
+     $contents = CXGN::Tools::File::get_sections(File::Spec->catfile($c->get_conf('homepage_files_dir'), "annotation-updates.txt"));
+    
+    };
+    
+</%perl>
+<div class="boxbgcolor1" style="margin:0px;">
+    <% $contents %>
+    <button class="btn btn-sm" onclick=location.href="/oldannotationupdates.pl">See all updates...</button>
+</div>

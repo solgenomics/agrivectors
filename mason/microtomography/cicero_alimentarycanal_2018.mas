@@ -1,0 +1,34 @@
+<& /page/page_title.mas, title=>'Asian citrus psyllid alimentary canal' &>
+
+<div class="indentedcontent">
+
+ The high volume of water present in the citrus phloem-derived foodstream would be toxic to the Asian citrus psyllid were it not for a complexation of alimentary canal that forms a kidney of sorts, called the filter chamber. This, and other digestive system organs are heavily laden with <i>Ca.</i> Liberibacter asiaticus, causal agent of citrus greening disease.
+ <br>
+ <br>
+Certain members of the deprecated order Homoptera have a highly modified alimentary canal wherein the esophagus, anterior midgut, posterior midgut and hindgut are collocated and complexed into an apparently paraphyletic structure called the filter chamber that acts as a kidney, removing the high volume of water from the hostplant foodstream and shunting it directly to the anus. This organ, and the mesal length of the midgut, are of very similar construction in the potato psyllid and the Asian citrus psyllid, and both are mobbed by their respective Liberibacter species.
+ <br>
+ <br>
+ The presentation herein is an animation crafted to allow for broad scientific audiences to understand basic alimentary canal anatomy and functionality of the Asian citrus psyllid.
+ <br>
+</div>
+
+<div class="container-fluid">
+
+<center>
+<iframe class="holds-the-iframe" name="Alimentary-canal"
+src="/static_content/MicroCT/Alimentary-canal/small/Alimentary-canal-small.html" scrolling="no" frameborder="no" height="506" width="900">
+</iframe>
+<style>
+.holds-the-iframe {
+ background:url(/documents/img/spinner.gif) center center no-repeat;
+}
+</style>
+</center>
+<br>
+<div align="right">
+ <a href="/static_content/MicroCT/Alimentary-canal/large/Alimentary-canal-large.html" target="_blank">View full size in new window</a>
+</div>
+<br>
+<b>Citation:</b>
+M. Cicero, Joseph; B. Hunter, Wayne; M. Cano, Liliana; Saha, Surya; A. Mueller, Lukas A and J. Brown, Susan (2019): <a href="https://doi.org/10.6084/m9.figshare.7599269.v3" target="_blank">An Animated Detailing of the Alimentary Canal of the Asian Citrus Psyllid, with Special Reference to the Configuration and Function of the Filter Chamber.</a> figshare. Media.
+</div>
