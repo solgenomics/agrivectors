@@ -4,32 +4,10 @@
     <ol class="carousel-indicators" style="display:none">
       <li data-target="#myCarousel" data-slide-to="0"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-
-      <div class="item">
-        <div style="background:url(/documents/img/citrusgreening/homepage/carousel1.png) center center; background-size:cover;" class="slider-size">
-          <div class="carousel-cg-caption">
-                  <a href="https://en.wikipedia.org/wiki/Citrus" target="_blank">
-                        <h3>Citrus</h3>
-                        <p>The citrus hosts infected by Huanglongbing or yellow dragon disease</p>
-                  </a>
-          </div>
-
-          <div class="carousel-cg-links">
-            <ul class="cg_sm_list">
-                  <li><a href="/organism/Citrus_clementina/genome"><i>Citrus clementina</i> genome page</a></li>
-                  <li><a href="/jbrowse_citrusgreening/current/?data=data%2Fjson%2FCitrus_clementina&tracks=DNA%2CGene%20models%20v1.0&highlight=&loc=scaffold_3%3A20420111..30630165">Browse the <i>Citrus clementina</i> genome</a></li>
-                  <li><a href="/organism/Citrus_sinensis/genome"><i>Citrus sinensis</i> genome page</a></li>
-                  <li><a href="/jbrowse_citrusgreening/current/?data=data%2Fjson%2FCitrus_sinensis&loc=scaffold00001%3A2370493..3555925&tracks=DNA%2CGene%20models%20v1.1&highlight=">Browse the <i>Citrus sinensis</i> genome</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
 
       <div class="item">
         <div style="background:url(/documents/img/citrusgreening/homepage/carousel2.png) center center; background-size:cover;" class="slider-size">
@@ -72,18 +50,6 @@
         </div>
       </div>
 
-      <div class="item">
-          <div style="background:url(/documents/img/citrusgreening/homepage/carousel4.png) center center; background-size:cover;" class="slider-size">
-                <div class="carousel-cg-caption" style="opacity: 0.95; background-color: #efefef">
-                        <a href="/about/"><h3>About Us</h3></a>
-                </div>
-                <div class="carousel-cg-links">
-                </div>
-
-          </div>
-      </div>
-
-
     </div><!-- Wrapper for slides end-->
 
   <div class="progress" style="height:5px">
@@ -103,10 +69,8 @@
 </div>
 
 <ul id="btn_carousel_indicators" class="nav nav-pills nav-justified cg_carousel_button_group">
-  <li class="active"><a data-target="#myCarousel" data-slide-to="0">Citrus</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="1">Asian citrus psyllid</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="2"><i>Ca.</i> Liberibacter</a></li>
-  <li><a data-target="#myCarousel" data-slide-to="3">Partners</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="0">Asian citrus psyllid</a></li>
+  <li><a data-target="#myCarousel" data-slide-to="1"><i>Ca.</i> Liberibacter</a></li>
 </ul>
 
 <style>
