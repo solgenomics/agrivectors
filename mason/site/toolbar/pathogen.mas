@@ -1,5 +1,5 @@
 <li class="dropdown">
-    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Pathogen</a>
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Psyllid Pathogens</a>
     <ul class="dropdown-menu">
         <li class="dropdown-header">Genome</li>
         <li><a href="/organism/Candidatus_Liberibacter_asiaticus_psy62/genome"><i>Ca.</i> Liberibacter asiaticus psy62</a></li>

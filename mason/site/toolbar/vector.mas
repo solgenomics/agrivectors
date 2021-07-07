@@ -1,5 +1,5 @@
 <li class="dropdown">
-    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Vector</a>
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Citrus psyllid</a>
     <ul class="dropdown-menu">
         <li class="dropdown-header">Genome</li>
         <li><a href="/organism/Diaphorina_citri/genome"><i>Diaphorina citri</i></a></li>
