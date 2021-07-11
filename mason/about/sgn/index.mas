@@ -1,34 +1,23 @@
-<& /page/page_title.mas, title=>'CitrusGreening Solutions'  &>
+<& /page/page_title.mas, title=>'AgriVectors'  &>
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
-            U.S. citrus growers have a critical need for grove-deployable management practices that keep healthy citrus from becoming infected and infected trees from becoming symptomatic. We present a <b>systems-based pipeline approach</b> for delivering commercial, grove-deployable solutions using a novel therapeutic delivery strategy and citrus transgenics. A data integration and analysis platform combining existing complex -omics/biological data with molecular/cellular research will steer <b>hypothesis-driven</b> testing of inhibitors of multiple molecular pathways to provide solutions that can be optimized by combinatorial delivery to citrus. 
-            <br>
-            Research areas will include: 
-            <ol>
-                <li>Molecular interaction inhibitor discovery (gut membrane binding peptides, RNA aptamers and non-toxic chemical library screening) to block psyllid acquisition/ transmission of HLB and/or growth in the plant.</li>
-                <li>dsRNA delivery to induce psyllid RNAi responses that block HLB transmission or kill the psyllid (or both).</li>
-                <li>Optimization of a novel therapeutic delivery system that has negligible environmental impact, is economical in comparison to current control strategies and is highly adaptable for different solution strategies.</li>
-            </ol>
-            Co-delivery with bactericides will be evaluated as complementary methods of control. To translate these therapeutic treatments into long-term solutions, transgenic research will be initiated to produce citrus expressing interdiction molecules (peptides and dsRNA) expressed in the phloem. By engaging stakeholders in design and testing stages, and educating the public, we will deliver acceptable solutions to control citrus greening and related diseases in a timely fashion to the citrus industry.
+            Arthropod vectors of pathogens cause enormous economic losses and are a fundamental challenge for sustainable increases in food production. To more effectively fight plant diseases, data pertaining to a disease system needs to be consolidated, made searchable and amenable to data mining. The AgriVectors platform is an open access and comprehensive resource for growers, researchers and industry working on plant pathogens and pathosystems spread by arthropod vectors.  The portal connects established public repositories with pathosystem-specific data repositories. We are beginning with resources related to citrus psyllid, potato psyllid and are expanding to other important hemipteran vectors such as whiteflies, leafhoppers and planthoppers in addition to thysanopteran vectors, like thrips, and others.
             <br>
             <br>
+            We plan to expand to diseases of fruit crops in Europe that are transmitted by arthropods, especially phytoplasma and virus pathogens. The AgriVectors portal will extend this model beyond gene-centric omics data to the broader Pathosystem-wide information, with integrated pest management, behavioral, plant health, soil health and climate data to incorporate rapid phenotyping information from research trials, building a foundation for more effectively identifying solutions to combat plant diseases.
             <br>
-            <center>
+There is also a capacity to set up private and protected databases for restricted access as needed. The portal is based on the <a href="https://citrusgreening.org/" target="_blank">Citrusgreening.org</a> community resource.
+            <br>
+<!--            <center>
                 <img src="/img/citrusgreening/about/workflow.png" height="250" width="800">
                 <br>
                 Flow diagram of the research and product delivery pipeline. Both knowledge and discovery flows are shown by the arrows.
-            </center>
-            <br>
-            <br>
-            <center>
-                <img src="/img/citrusgreening/cg_name_nifa.png" height="60">
-            </center>
-            The focus of this project is the discovery of molecules that can be deployed therapeutically to citrus and the optimization of a new delivery strategy to support the efficient use of the molecules being delivered. This is a USDA NIFA <a href="http://portal.nifa.usda.gov/web/crisprojectpages/1005600-developing-an-infrastructure-and-product-test-pipeline-to-deliver-novel-therapies-for-citrus-greening-disease.html">Coordinated Agriculture Project</a> (CAPs) relevant to SCRI/CDRE efforts to identify and address threats from pests and diseases.
+            </center> -->
             <br>
 	    <br>
 	    <br>
-                <b>Citation</b>: Flores M, Saha S, Hosmani PS, Brown S, A Mueller L. Community portal for the Citrusgreening disease resources [Internet]. figshare; 2017. doi:10.6084/m9.figshare.5307391.v1 <a href="https://figshare.com/articles/Community_portal_for_the_Citrusgreening_disease_resources/5307391" target="_blank">Figshare</a>
+                <b>Citation</b>: Flores-Gonzalez, M., Hosmani, P. S., Fernandez-Pozo, N., Mann, M., Humann, J. L., Main, D., Heck, M., Brown, S. J., Mueller, L. A., & Saha, S. (2019). Citrusgreening.org: An open access and integrated systems biology portal for the Huanglongbing (HLB) disease complex. BioRxiv, 868364. <a href="https://doi.org/10.1101/868364" target="_blank"><i>bioRxiv</i></a>
             <br>
             <br>
         </div>
@@ -42,6 +31,3 @@
     <!-- end row -->
 </div>
 <!-- close container-fluid -->
-<!--<& tools.mas &>-->
-<!--<& publications.mas &>-->
-<!--<& funding.mas &>-->
