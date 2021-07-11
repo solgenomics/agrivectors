@@ -8,10 +8,10 @@
         <div class="col-sm-8 col-md-8 col-lg-8">
             <div class="well">
                 <p>
-                    The <b>citrus greening</b> disease (also called <b>huanglongbing</b>) has devastated the Florida citrus industry, and is now in CA and TX.  Fruit from infected trees is safe to eat, but production is reduced so much that citrus may cease to be inexpensive and broadly available.  If you are a citrus lover you should know that massive research efforts, including this project, are underway to keep citrus affordable and plentiful.<a href="/disease/index"> See impact on US production..</a>
+                    The AgriVectors platform is an open access and comprehensive resource for growers, researchers and industry working on plant pathogens and pathosystems spread by arthropod vectors.  The portal connects established public repositories with pathosystem-specific data repositories. We are beginning with resources related to citrus psyllid, potato psyllid and are expanding to other important hemipteran vectors such as whiteflies, leafhoppers and planthoppers in addition to thysanopteran vectors, like thrips, and others.
                 </p>
                 <p>
-                   <center>Citrus Greening Solutions is a <a href="http://nifa.usda.gov/" target="_blank">USDA NIFA</a> project.</center>
+                   <center>AgriVectors is a <a href="https://www.ars.usda.gov/" target="_blank">USDA ARS</a> project.</center>
                 </p>
             </div>
         </div>
@@ -59,11 +59,11 @@
             </div>
         </div>
         <div class="panel panel-success">
-            <div class="panel-heading">Events</div>
+<!--            <div class="panel-heading">Events</div>
             <div class="panel-body" style="overflow:hidden">
                 <& homepage/events.mas &>
             </div>
-        </div>
+        </div> -->
         <div class="panel panel-success">
             <div class="panel-heading">Links</div>
             <div class="panel-body" style="overflow:hidden">
