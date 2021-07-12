@@ -18,7 +18,7 @@
                             <hr>
                             <p>We present a systems-based pipeline approach for delivering commercial, grove-deployable solutions using a novel therapeutic delivery strategy. </p>
                             <p><a href="/legal.pl">Disclaimer</a> | <a href="/contact/form">Contact us</a> | <a href="/contact/form">Report a problem</a></p> 
-                            <p>Citation <a href="https://www.biorxiv.org/content/10.1101/868364v1" target="_blank">Flores-Gonzalez et al. 2019</a> 
+                            <p>Citation <a href="https://sciforum.net/paper/view/10576" target="_blank">Saha et al. 2021</a> 
                             <div class="left">
                                 <a class="footer" href="https://www.facebook.com/citrusgreening"><img src="/static/img/citrusgreening/FB-f-Logo__blue_50.png" alt="Facebook" class="logo" width="25"></a>
                                 <a class="footer" href="https://twitter.com/citrusgreening"><img src="/static/img/citrusgreening/TwitterLogo_55acee_50.png" alt="Twitter" class="logo" width="35"></a>
@@ -29,13 +29,14 @@
                             <h4>Project Partners</h4>
                             <hr>
                             <ul class="list-unstyled">
-                                <li><a class="footer" href="http://www.k-state.edu/">Kansas State University, KS, USA</a></li>
-                                <li><a class="footer" href="http://bti.cornell.edu">Boyce Thompson Institute (BTI) for Plant Research, NY, USA</a></li>
-                                <li><a class="footer" href="http://www.ars.usda.gov/main/site_main.htm?modecode=60-34-05-00">USDA-ARS, U.S. Horticultural Research Laboratory, FL, USA</a></li>
-                                <li><a class="footer" href="http://foodscience.ucdavis.edu/">Department of Food Science and Technology, UC Davis, CA, USA</a></li>
-                                <li><a class="footer" href="https://www.irsc.edu/">Indian River State College, FL, USA</a></li>
-                                <li><a class="footer" href="https://www.lanl.gov/">US DOE Los Alamos National Laboratory, NM, USA</a></li>
-                                <li><a class="footer" href="http://www.gs.washington.edu/">Department of Genome Sciences, University of Washington, WA, USA</a></li>
+                                <li><a class="footer" href="http://bti.cornell.edu target="_blank"">Boyce Thompson Institute (BTI) for Plant Research, NY, USA</a></li>
+                                <li><a class="footer" href="https://www.ars.usda.gov/pacific-west-area/wapato-wa/temperate-tree-fruit-and-vegetable-research/" target="_blank">USDA-ARS, Temperate Tree Fruit and Vegetable Research, WA, USA</a></li>
+                                <li><a class="footer" href="http://www.ars.usda.gov/main/site_main.htm?modecode=60-34-05-00" target="_blank">USDA-ARS, U.S. Horticultural Research Laboratory, FL, USA</a></li>
+                                <li><a class="footer" href="http://www.k-state.edu/" target="_blank">Kansas State University, KS, USA</a></li>
+                                <li><a class="footer" href="http://foodscience.ucdavis.edu/" target="_blank">Department of Food Science and Technology, UC Davis, CA, USA</a></li>
+                                <li><a class="footer" href="https://www.irsc.edu/" target="_blank">Indian River State College, FL, USA</a></li>
+                                <li><a class="footer" href="https://www.lanl.gov/" target="_blank">US DOE Los Alamos National Laboratory, NM, USA</a></li>
+                                <li><a class="footer" href="http://www.gs.washington.edu/" target="_blank">Department of Genome Sciences, University of Washington, WA, USA</a></li>
                             </ul>
                         </div>
                         <div class="col-sm-3 col-md-3 col-lg-3" >
